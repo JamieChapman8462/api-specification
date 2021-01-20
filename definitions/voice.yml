@@ -751,7 +751,7 @@ components:
       example: "0.39"
     direction:
       type: string
-      description: Possible values are `outbound` or `inbound`
+      description: Possible value is `outbound`
       example: outbound
       enum:
         - outbound
